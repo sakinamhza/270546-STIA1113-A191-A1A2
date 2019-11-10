@@ -49,6 +49,8 @@ End
 
 # Flowchart
  
+ ![FLOWCHART](https://user-images.githubusercontent.com/55503590/68538656-2ef41980-03b3-11ea-9650-7dea79f8076b.png)
 
+# Output
 
-
+![OUTPUT](https://user-images.githubusercontent.com/55503590/68538668-6b277a00-03b3-11ea-8279-94b1a370bf60.JPG)
